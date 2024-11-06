@@ -1,7 +1,0 @@
-C:\Users\Pichau\Desktop\EDD2\Proj. Biblioteca\Proj. Biblioteca\bin\Debug\Proj.Biblioteca.exe.config
-C:\Users\Pichau\Desktop\EDD2\Proj. Biblioteca\Proj. Biblioteca\bin\Debug\Proj.Biblioteca.exe
-C:\Users\Pichau\Desktop\EDD2\Proj. Biblioteca\Proj. Biblioteca\bin\Debug\Proj.Biblioteca.pdb
-C:\Users\Pichau\Desktop\EDD2\Proj. Biblioteca\Proj. Biblioteca\obj\Debug\Proj. Biblioteca.csproj.AssemblyReference.cache
-C:\Users\Pichau\Desktop\EDD2\Proj. Biblioteca\Proj. Biblioteca\obj\Debug\Proj. Biblioteca.csproj.CoreCompileInputs.cache
-C:\Users\Pichau\Desktop\EDD2\Proj. Biblioteca\Proj. Biblioteca\obj\Debug\Proj.Biblioteca.exe
-C:\Users\Pichau\Desktop\EDD2\Proj. Biblioteca\Proj. Biblioteca\obj\Debug\Proj.Biblioteca.pdb
